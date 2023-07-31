@@ -8,7 +8,7 @@ env:
   dockerimage_name: yourzinc/lab2
   config_repo: yourzinc/lab2-config
   config_repo_path: lab2-config
-  mode: prod
+  mode: dev
 
 jobs:
   build:
